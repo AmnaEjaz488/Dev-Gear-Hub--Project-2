@@ -103,6 +103,6 @@ Email: email@example.com
 
 GitHub: https://github.com/AmnaEjaz488/Project-2
 
-URL: //https.....
+Deployment Link: https://proj-2-test.onrender.com/home 
 
 
