@@ -100,7 +100,7 @@ For any inquiries or support, feel free to reach out to:
 
 Email: email@example.com
 
-GitHub: profile
+GitHub: https://github.com/AmnaEjaz488/Project-2
 
 URL: //https.....
 
