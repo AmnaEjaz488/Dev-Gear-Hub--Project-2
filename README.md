@@ -32,23 +32,24 @@ Responsive UI for seamless experience on different devices
 
 ## Technologies Used
 
-Frontend
+React and web Api fort frontend
 
-HTML, CSS, JavaScript
+HTML, CSS, JavaScript, Typescript, bootstrap.
 
 JSON for data management
 
-Backend
+Backend PostgreSQL and the Sequelize ORM for the database.
 
 JavaScript (Node.js/Express.js)
 
 JSON as a database
 
+Deployed using Render (with data).
+
+
 ## Installation and Setup
 
-Clone the repository:
-
-git clone https://github.com/your-repo/ecommerce-app.git
+Git colone https://github.com/AmnaEjaz488/Dev-Gear-Hub--Project-2.git 
 
 Navigate to the project directory:
 
